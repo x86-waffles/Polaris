@@ -26,4 +26,4 @@ Polaris will perform the following functions:
     - Expected completion date of separate *Moderator* functions: **October 2025**
   - Bug fixes and open requests for fork projects and individual hosting
 
--# I hope to have this Discord bot up and running very soon. If there are any suggestions you would like to make for new features, please feel free to leave a comment on this Git repository!
+==I hope to have this Discord bot up and running very soon. If there are any suggestions you would like to make for new features, please feel free to leave a comment on this Git repository!==
